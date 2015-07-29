@@ -6,4 +6,9 @@ gcc 5.2.0
 --enble-libfdk-aac  
 --enable-libspeex  
 --enable-libx264  
---enable-libopenh264  
+--enable-libopenh264   
+
+
+![img]
+
+[img]:https://raw.githubusercontent.com/illuspas/ffmpeg-hw-win32/master/h264-encoders.png
